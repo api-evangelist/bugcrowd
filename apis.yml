@@ -23,10 +23,18 @@ apis:
       - type: Documentation
         url: https://docs.bugcrowd.com/api/getting-started/
 common:
+  - type: TrustCenter
+    url: security/bugcrowd-trust-center.yml
+  - type: VulnerabilityDisclosure
+    url: security/bugcrowd-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/bugcrowd-domain-security.yml
   - type: Website
     url: https://docs.bugcrowd.com/api/getting-started/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://www.bugcrowd.com/blog/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
