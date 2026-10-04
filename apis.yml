@@ -35,11 +35,15 @@ x-tier-reason: bulk-registered-from-public-apis
 tags:
   - Security
   - Public APIs
+  - Cybersecurity
+  - Vulnerability Management
+  - Bug Bounty
+  - Vulnerability Disclosure
+  - Penetration Testing
 apis:
   - name: Bugcrowd
     description: "Bugcrowd API for interacting and tracking the reported issues programmatically"
     humanURL: https://docs.bugcrowd.com/api/getting-started/
-    baseURL: https://docs.bugcrowd.com/api/getting-started/
     tags:
       - Security
     properties:
